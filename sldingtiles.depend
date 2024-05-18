@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715873418 source:c:\users\ayush mehrotra\desktop\slidingtiles\main.cpp
+	<iostream>
+	<iostream>
+	<string>
+	"slidingtiles.h"
+
+1715873418 c:\users\ayush mehrotra\desktop\slidingtiles\slidingtiles.h
+	<iostream>
+	<iomanip>
+	<set>
+	<unordered_map>
+	<queue>
+	<stack>
+
